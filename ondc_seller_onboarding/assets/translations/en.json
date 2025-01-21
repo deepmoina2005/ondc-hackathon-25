@@ -1,0 +1,58 @@
+{
+    "welcome": {
+      "title": "Welcome to ONDC",
+      "subtitle": "Let's create your digital store",
+      "get_started": "Get Started"
+    },
+    "language": {
+      "select": "Choose Your Language",
+      "english": "English",
+      "hindi": "हिंदी",
+      "punjabi": "ਪੰਜਾਬੀ",
+      "bengali": "বাংলা"
+    },
+    "store_details": {
+      "title": "Store Information",
+      "store_name": "Store Name",
+      "store_name_hint": "Enter your store name",
+      "owner_name": "Owner Name",
+      "owner_name_hint": "Enter owner's name",
+      "phone": "Phone Number",
+      "phone_hint": "Enter your phone number",
+      "address": "Store Address",
+      "address_hint": "Enter your store address",
+      "pin_code": "PIN Code",
+      "pin_code_hint": "Enter your area PIN code",
+      "missing_fields": "Please fill in all required fields",
+      "submission_success": "Store details submitted successfully"
+    },
+    "business": {
+      "type": "Business Type",
+      "select_type": "Select your business type",
+      "kirana": "Kirana Store",
+      "grocery": "Grocery Store",
+      "pharmacy": "Pharmacy",
+      "clothing": "Clothing",
+      "electronics": "Electronics",
+      "other": "Other"
+    },
+    "common": {
+      "step": "Step",
+      "next": "Next",
+      "back": "Back",
+      "save": "Save",
+      "cancel": "Cancel",
+      "done": "Done",
+      "error": "Error",
+      "success": "Success",
+      "loading": "Loading...",
+      "finish": "Finish",
+      "moved_to_step": "Moved to step {}"
+    },
+    "voice": {
+      "start": "Tap to start voice input",
+      "listening": "Listening...",
+      "speak_now": "Please speak now",
+      "not_recognized": "Sorry, could not understand"
+    }
+  }
