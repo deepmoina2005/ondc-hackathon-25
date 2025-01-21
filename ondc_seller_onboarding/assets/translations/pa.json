@@ -1,0 +1,59 @@
+{
+    "welcome": {
+      "title": "ONDC ਵਿੱਚ ਜੀ ਆਇਆਂ ਨੂੰ",
+      "subtitle": "ਆਓ ਤੁਹਾਡੀ ਡਿਜੀਟਲ ਦੁਕਾਨ ਬਣਾਈਏ",
+      "get_started": "ਸ਼ੁਰੂ ਕਰੀਏ"
+    },
+    "language": {
+      "select": "ਆਪਣੀ ਭਾਸ਼ਾ ਚੁਣੋ",
+      "english": "English",
+      "hindi": "हिंदी",
+      "punjabi": "ਪੰਜਾਬੀ",
+      "bengali": "বাংলা"
+    },
+    "store_details": {
+      "title": "ਦੁਕਾਨ ਦੀ ਜਾਣਕਾਰੀ",
+      "store_name": "ਦੁਕਾਨ ਦਾ ਨਾਮ",
+      "store_name_hint": "ਆਪਣੀ ਦੁਕਾਨ ਦਾ ਨਾਮ ਦਰਜ ਕਰੋ",
+      "owner_name": "ਮਾਲਕ ਦਾ ਨਾਮ",
+      "owner_name_hint": "ਮਾਲਕ ਦਾ ਨਾਮ ਦਰਜ ਕਰੋ",
+      "phone": "ਫ਼ੋਨ ਨੰਬਰ",
+      "phone_hint": "ਆਪਣਾ ਫ਼ੋਨ ਨੰਬਰ ਦਰਜ ਕਰੋ",
+      "address": "ਦੁਕਾਨ ਦਾ ਪਤਾ",
+      "address_hint": "ਆਪਣੀ ਦੁਕਾਨ ਦਾ ਪਤਾ ਦਰਜ ਕਰੋ",
+      "pin_code": "ਪਿੰਨ ਕੋਡ",
+      "pin_code_hint": "ਆਪਣੇ ਖੇਤਰ ਦਾ ਪਿੰਨ ਕੋਡ ਦਰਜ ਕਰੋ",
+      "missing_fields": "ਕਿਰਪਾ ਕਰਕੇ ਸਾਰੇ ਲੋੜੀਂਦੇ ਖੇਤਰ ਭਰੋ",
+      "submission_success": "ਦੁਕਾਨ ਦੀ ਜਾਣਕਾਰੀ ਸਫਲਤਾਪੂਰਵਕ ਜਮ੍ਹਾਂ ਕੀਤੀ ਗਈ"
+    },
+    "business": {
+      "type": "ਕਾਰੋਬਾਰ ਦੀ ਕਿਸਮ",
+      "select_type": "ਆਪਣੇ ਕਾਰੋਬਾਰ ਦੀ ਕਿਸਮ ਚੁਣੋ",
+      "kirana": "ਕਰਿਆਨਾ ਸਟੋਰ",
+      "grocery": "ਗਰੋਸਰੀ ਸਟੋਰ",
+      "pharmacy": "ਫਾਰਮੇਸੀ",
+      "clothing": "ਕੱਪੜੇ ਦੀ ਦੁਕਾਨ",
+      "electronics": "ਇਲੈਕਟ੍ਰੌਨਿਕਸ",
+      "other": "ਹੋਰ"
+    },
+    "common": {
+      "step": "ਪੜਾਅ",
+      "next": "ਅੱਗੇ",
+      "back": "ਪਿੱਛੇ",
+      "save": "ਸੇਵ ਕਰੋ",
+      "cancel": "ਰੱਦ ਕਰੋ",
+      "done": "ਹੋ ਗਿਆ",
+      "error": "ਗਲਤੀ",
+      "success": "ਸਫਲ",
+      "loading": "ਲੋਡ ਹੋ ਰਿਹਾ ਹੈ...",
+      "finish": "ਖਤਮ ਕਰੋ",
+      "moved_to_step": "ਪੜਾਅ {} 'ਤੇ ਪਹੁੰਚ ਗਏ"
+    },
+    "voice": {
+      "start": "ਵੌਇਸ ਇਨਪੁੱਟ ਸ਼ੁਰੂ ਕਰਨ ਲਈ ਟੈਪ ਕਰੋ",
+      "listening": "ਸੁਣ ਰਿਹਾ ਹਾਂ...",
+      "speak_now": "ਕਿਰਪਾ ਕਰਕੇ ਹੁਣ ਬੋਲੋ",
+      "not_recognized": "ਮਾਫ਼ ਕਰਨਾ, ਸਮਝ ਨਹੀਂ ਆਇਆ"
+    }
+  }
+  
